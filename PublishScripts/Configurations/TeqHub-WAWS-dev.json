@@ -1,0 +1,21 @@
+{
+    "environmentSettings": {
+        "webSite": {
+            "name": "TeqHub",
+            "location": "East Asia"
+        },
+        "databases": [
+            {
+                "connectionStringName": "DefaultConnection",
+                "databaseName": "TeqHub_db",
+                "serverName": "",
+                "user": "daniel",
+                "password": "",
+                "edition": "",
+                "size": "",
+                "collation": "",
+                "location": "East Asia"
+            }
+        ]
+    }
+}
